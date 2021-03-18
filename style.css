@@ -1,5 +1,5 @@
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 
 body{
   background-color: #d3d1d1;
@@ -75,7 +75,6 @@ li {
 .first_image{
   margin: 0px auto;
   padding: 0px 350px;
-  box-shadow: 0.3px 0.3px #495057;
 }
 
 .picture_box{
